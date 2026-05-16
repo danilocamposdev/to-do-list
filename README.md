@@ -29,7 +29,7 @@ Passo a Passo para Compilação
 1. Clone este repositório em sua máquina local:
 
    ```bash
-    git clone [https://github.com/danilocamposdev/to-do-list.git](https://github.com/danilocamposdev/to-do-list.git)
+    git clone https://github.com/danilocamposdev/to-do-list.git
     cd to-do-list
    ```
 
